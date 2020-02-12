@@ -7,7 +7,7 @@
     "tumbleJokerPrice" : 10,
     "extraTimeAmountPerWord" : 20,
     "timesForWordScoreInExtraTime" : 2,
-    "gameTimeoutPerTurn" : 15000,
+    "gameTimeoutSecondPerTurn" : 15,
     "gradeIncrementGameCount" :  20,
     "energyAddingTime" : 7200,
     "adWatchAgainDelay" : 30000,
