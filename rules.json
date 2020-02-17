@@ -9,7 +9,8 @@
     "timesForWordScoreInExtraTime" : 2,
     "gameTimeoutSecondPerTurn" : 15,
     "gradeIncrementGameCount" :  20,
-    "energyAddingTime" : 30,
+    "maxEnergyTimerSeconds" : 30,
+    "maxEnergyCount" : 20,
     "adWatchAgainDelay" : 30000,
     "defaultVictoryScore" : 15,
     "perGameCountToGradeUp" : 10
