@@ -13,5 +13,6 @@
     "maxEnergyCount" : 20,
     "adWatchAgainDelay" : 30000,
     "defaultVictoryScore" : 15,
-    "perGameCountToGradeUp" : 10
+    "perGameCountToGradeUp" : 10,
+    "nextRoundTimer" : 5
 }
