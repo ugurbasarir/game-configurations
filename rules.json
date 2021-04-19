@@ -1,5 +1,5 @@
 {
-    "pointPerLetterInSinglePlayer" : 5,
+    "pointPerLetterInSinglePlayer" : 4,
     "randomLetterHintJokerPrice" : 10,
     "specificLetterHintJokerPrice" : 20,
     "randomWordHintJokerPrice" : 100,
